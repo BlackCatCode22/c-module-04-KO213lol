@@ -1,0 +1,10 @@
+Bear Count: 1
+  Baloo (Age: 7)
+Hyena Count: 1
+  Shenzi (Age: 4)
+Lion Count: 2
+  Simba (Age: 5)
+  Mufasa (Age: 10)
+Tiger Count: 2
+  Rajah (Age: 3)
+  Tigger (Age: 2)
